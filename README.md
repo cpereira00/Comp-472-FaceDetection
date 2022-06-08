@@ -15,9 +15,10 @@
 7. test.zip: Following is sample data taken from the test set to be used to test imported model.
 
 ## Training
-To run our code, first you need to download the provided dataset. Then, you need to get the current location of the dataset file and change the path at cell 3 for this new path. *** After, for the evaluation results, you will also need to change the path at line (again insert here). Our code will generate a confusion matrix image and a classification report image in the location you will choose. When all the paths are changed, you can now press on “run”.
+To run our code, first you need to download the provided dataset. Then, you need to get the current location of the dataset file and change the path at cell 3,6,7 for this new path. This is because we reference teh google drive path which only we have access to. After, to save the model you must again specify your own location on cell 15. The training section is thus complete and you can run the notebook.
 
 ## Evaluation
+For the evaluation results, you will also need to change the path at cells 17,19,22,23 if you want to save the outputed locally. Our code will generate a confusion matrix image and a classification report image in the location you will choose. When all the paths are changed, you can now press on “run”.
 
 ### Confusion Matrix
 <a>
