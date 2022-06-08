@@ -17,5 +17,15 @@
 ## Training
 Readme also must describe how to run your code for (a) training
 ## Evaluation
+ readme also must describe how to run your code for (b) application (including generating the evaluation results provided in the report).
+ 
 
+### Confusion Matrix
+<a>
+  <img src = "./OutputImages-1/OutputImages/confusionMatrix.png">
+</a>
 
+### Classification Report
+<a>
+  <img src = "./OutputImages-1/OutputImages/precision_recall_f1_score.png">
+</a>
