@@ -15,10 +15,9 @@
 7. test.zip: Following is sample data taken from the test set to be used to test imported model.
 
 ## Training
-Readme also must describe how to run your code for (a) training
+To run our code, first you need to download the provided dataset. Then, you need to get the current location of the dataset file and change the path at cell 3 for this new path. *** After, for the evaluation results, you will also need to change the path at line (again insert here). Our code will generate a confusion matrix image and a classification report image in the location you will choose. When all the paths are changed, you can now press on “run”.
+
 ## Evaluation
- readme also must describe how to run your code for (b) application (including generating the evaluation results provided in the report).
- 
 
 ### Confusion Matrix
 <a>
